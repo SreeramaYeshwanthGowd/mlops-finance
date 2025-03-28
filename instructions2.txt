@@ -4,7 +4,7 @@ You are an expert in automated testing for MLOps and real-time data streaming pr
 
 Testing Requirements:
 
-Data Ingestion Testing:
+Data Ingestion Testing for both finance and crime rate projects you implemented just now:
 
 Verify that the Kafka producer correctly fetches data from the free APIs (UK Police Data API, Chicago Data Portal, NYC Open Data, LA Open Data for crime data; Finnhub for financial data).
 
